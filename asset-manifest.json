@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/buildmech/static/css/main.5f361e03.chunk.css",
-    "main.js": "/buildmech/static/js/main.92cf2cc9.chunk.js",
-    "main.js.map": "/buildmech/static/js/main.92cf2cc9.chunk.js.map",
-    "runtime-main.js": "/buildmech/static/js/runtime-main.a94406fd.js",
-    "runtime-main.js.map": "/buildmech/static/js/runtime-main.a94406fd.js.map",
-    "static/js/2.5a1abaa2.chunk.js": "/buildmech/static/js/2.5a1abaa2.chunk.js",
-    "static/js/2.5a1abaa2.chunk.js.map": "/buildmech/static/js/2.5a1abaa2.chunk.js.map",
-    "index.html": "/buildmech/index.html",
-    "precache-manifest.55d815501a2be7f72933142dcad8e5e5.js": "/buildmech/precache-manifest.55d815501a2be7f72933142dcad8e5e5.js",
-    "service-worker.js": "/buildmech/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/buildmech/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5a1abaa2.chunk.js.LICENSE.txt": "/buildmech/static/js/2.5a1abaa2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/buildmech/static/media/logo.5d5d9eef.svg"
+    "main.css": "/agit-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/agit-react/static/js/main.731a2b5a.chunk.js",
+    "main.js.map": "/agit-react/static/js/main.731a2b5a.chunk.js.map",
+    "runtime-main.js": "/agit-react/static/js/runtime-main.bd84b2e6.js",
+    "runtime-main.js.map": "/agit-react/static/js/runtime-main.bd84b2e6.js.map",
+    "static/js/2.5a1abaa2.chunk.js": "/agit-react/static/js/2.5a1abaa2.chunk.js",
+    "static/js/2.5a1abaa2.chunk.js.map": "/agit-react/static/js/2.5a1abaa2.chunk.js.map",
+    "index.html": "/agit-react/index.html",
+    "precache-manifest.9651d97813bc90086addee34a21f2542.js": "/agit-react/precache-manifest.9651d97813bc90086addee34a21f2542.js",
+    "service-worker.js": "/agit-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/agit-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5a1abaa2.chunk.js.LICENSE.txt": "/agit-react/static/js/2.5a1abaa2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/agit-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a94406fd.js",
+    "static/js/runtime-main.bd84b2e6.js",
     "static/js/2.5a1abaa2.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.92cf2cc9.chunk.js"
+    "static/js/main.731a2b5a.chunk.js"
   ]
 }
