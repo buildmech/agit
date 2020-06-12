@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/buildmech/static/css/main.5f361e03.chunk.css",
+    "main.js": "/buildmech/static/js/main.92cf2cc9.chunk.js",
+    "main.js.map": "/buildmech/static/js/main.92cf2cc9.chunk.js.map",
+    "runtime-main.js": "/buildmech/static/js/runtime-main.a94406fd.js",
+    "runtime-main.js.map": "/buildmech/static/js/runtime-main.a94406fd.js.map",
+    "static/js/2.5a1abaa2.chunk.js": "/buildmech/static/js/2.5a1abaa2.chunk.js",
+    "static/js/2.5a1abaa2.chunk.js.map": "/buildmech/static/js/2.5a1abaa2.chunk.js.map",
+    "index.html": "/buildmech/index.html",
+    "precache-manifest.55d815501a2be7f72933142dcad8e5e5.js": "/buildmech/precache-manifest.55d815501a2be7f72933142dcad8e5e5.js",
+    "service-worker.js": "/buildmech/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/buildmech/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5a1abaa2.chunk.js.LICENSE.txt": "/buildmech/static/js/2.5a1abaa2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/buildmech/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a94406fd.js",
+    "static/js/2.5a1abaa2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.92cf2cc9.chunk.js"
+  ]
+}
